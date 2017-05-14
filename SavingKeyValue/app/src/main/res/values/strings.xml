@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SavingKeyValue</string>
+    <string name="username">User Name</string>
+    <string name="pass">Password</string>
+    <string name="save">Save</string>
+    <string name="next">Go to B</string>
+
+    <string name="load">Reload</string>
+    <string name="pre">Go to A</string>
+</resources>
